@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\devel\\OneDrive\\Documentos\\Prueba tecnica LA COMPETENCIA\\BackPTecnica\\BackPTecnica\\BackPTecnica.csproj": {}
+    "C:\\Users\\devel\\OneDrive\\Documentos\\Prueba tecnica LA COMPETENCIA\\pruebaTecnicaTareas\\BackPTecnica\\BackPTecnica\\BackPTecnica.csproj": {}
   },
   "projects": {
-    "C:\\Users\\devel\\OneDrive\\Documentos\\Prueba tecnica LA COMPETENCIA\\BackPTecnica\\BackPTecnica\\BackPTecnica.csproj": {
+    "C:\\Users\\devel\\OneDrive\\Documentos\\Prueba tecnica LA COMPETENCIA\\pruebaTecnicaTareas\\BackPTecnica\\BackPTecnica\\BackPTecnica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\devel\\OneDrive\\Documentos\\Prueba tecnica LA COMPETENCIA\\BackPTecnica\\BackPTecnica\\BackPTecnica.csproj",
+        "projectUniqueName": "C:\\Users\\devel\\OneDrive\\Documentos\\Prueba tecnica LA COMPETENCIA\\pruebaTecnicaTareas\\BackPTecnica\\BackPTecnica\\BackPTecnica.csproj",
         "projectName": "BackPTecnica",
-        "projectPath": "C:\\Users\\devel\\OneDrive\\Documentos\\Prueba tecnica LA COMPETENCIA\\BackPTecnica\\BackPTecnica\\BackPTecnica.csproj",
+        "projectPath": "C:\\Users\\devel\\OneDrive\\Documentos\\Prueba tecnica LA COMPETENCIA\\pruebaTecnicaTareas\\BackPTecnica\\BackPTecnica\\BackPTecnica.csproj",
         "packagesPath": "C:\\Users\\devel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\devel\\OneDrive\\Documentos\\Prueba tecnica LA COMPETENCIA\\BackPTecnica\\BackPTecnica\\obj\\",
+        "outputPath": "C:\\Users\\devel\\OneDrive\\Documentos\\Prueba tecnica LA COMPETENCIA\\pruebaTecnicaTareas\\BackPTecnica\\BackPTecnica\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\devel\\AppData\\Roaming\\NuGet\\NuGet.Config",

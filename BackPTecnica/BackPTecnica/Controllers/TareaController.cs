@@ -52,6 +52,41 @@ namespace BackPTecnica.Controllers
 
         }
 
+        [HttpPut]
+        [Route("Actualizar/{id:int}")]
+        public async Task<IActionResult> Actualizar(int id, [FromBody] Task tareaActualizada)
+        {
+            var tareaExistente = await _baseDatos.Tasks.FindAsync(id);
+
+            if (tareaExistente == null)
+                return BadRequest("No existe la tarea");
+
+            tareaExistente.Nombre = tareaActualizada.Nombre; 
+            tareaExistente.Prioridad = tareaActualizada.Prioridad;
+            tareaExistente.Descripcion = tareaActualizada.Descripcion;
+
+
+            await _baseDatos.SaveChangesAsync();
+            return Ok(tareaExistente);
+        }
+
+        [HttpPut]
+        [Route("Realizar/{id:int}")]
+        public async Task<IActionResult> Realizar(int id, [FromBody] Task tareaActualizada)
+        {
+            var tareaExistente = await _baseDatos.Tasks.FindAsync(id);
+
+            if (tareaExistente == null)
+                return BadRequest("No existe la tarea");
+
+            tareaExistente.TaskComplete = tareaActualizada.TaskComplete;
+
+
+
+            await _baseDatos.SaveChangesAsync();
+            return Ok(tareaExistente);
+        }
+
 
     }
 }

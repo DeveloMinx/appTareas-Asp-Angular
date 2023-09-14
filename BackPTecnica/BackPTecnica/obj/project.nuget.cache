@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sUItmwF0xu2aDSjrnaLy3NU73+xhMCsng99eFia+i9FQ82yd32Hm4/WWeJAgoqQK/jf8xMpD4dLZn+MJBcOfCA==",
+  "dgSpecHash": "4dwZwxwBh5TWen7kca0IH3bqTRV9eC4+iJFNNgM/mHIfuHgpuRBgOoC0I7ftXLdOyY9fuU2JJsbwMG+jdDoxRQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\devel\\OneDrive\\Documentos\\Prueba tecnica LA COMPETENCIA\\BackPTecnica\\BackPTecnica\\BackPTecnica.csproj",
+  "projectFilePath": "C:\\Users\\devel\\OneDrive\\Documentos\\Prueba tecnica LA COMPETENCIA\\pruebaTecnicaTareas\\BackPTecnica\\BackPTecnica\\BackPTecnica.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\devel\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\devel\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
